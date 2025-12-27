@@ -19,6 +19,7 @@ This is an end-to-end supply chain analytics project designed to simulate a real
 •	KPI-based supply chain performance evaluation<br>
 •	Advanced analysis using Quadratic AI<br>
 •	Business-oriented insights and recommendations<br>
+
 Unlike static reporting, this solution introduces AI-powered analytics with automated workflows, making it scalable and future-ready.
 
 ## 3. Goal of the Analysis
