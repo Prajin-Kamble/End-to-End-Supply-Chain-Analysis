@@ -2,14 +2,17 @@
 
 ## 1. Business Problem Statements
 AtliQMart is a Gujarat-based organic food manufacturing company that operates with a limited product portfolio but has successfully disrupted the market in two Indian cities. Recently, the company expanded operations to a third city—New Jersey, USA.<br>
+
 Despite strong demand, AtliQMart’s supply chain maturity is low, resulting in:<br>
 •	Poor order fulfillment performance<br>
 •	Inconsistent deliveries to supermarket customers<br>
 •	Customer dissatisfaction due to incomplete and delayed orders<br>
+
 As the company plans to scale further, these issues pose a high business risk. The leadership required a data-driven and AI-enabled solution to identify bottlenecks and improve supply chain reliability.
 
 ## 2. Project Description
 This is an end-to-end supply chain analytics project designed to simulate a real-life FMCG supply chain scenario using dummy data.<br>
+
 ### The project covers:
 •	Automated data ingestion from operational sources<br>
 •	Centralized storage using PostgreSQL<br>
